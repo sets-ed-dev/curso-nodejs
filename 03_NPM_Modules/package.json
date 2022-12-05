@@ -1,0 +1,20 @@
+{
+  "name": "03_npm_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.20"
+  }
+}
