@@ -24,7 +24,7 @@ const handleLogout = async (req, res) => {
             {
                 // Same options like set auth cookies (except maxAge).
                 httpOnly: true,
-                // secure: true,  // Only works in production deployment!
+                secure: true,  // Only works in production deployment!
                 sameSite: 'None' // Avoiding auth CORS problem using front-end code.
             }
         );
@@ -42,7 +42,7 @@ const handleLogout = async (req, res) => {
         jwtCookie,
         {
             httpOnly: true,
-            // secure: true,  // Only works in production deployment!
+            secure: true,  // Only works in production deployment!
             sameSite: 'None' // Avoiding auth CORS problem using front-end code.
         }
     );

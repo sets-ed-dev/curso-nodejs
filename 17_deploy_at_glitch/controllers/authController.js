@@ -62,7 +62,7 @@ const handleLogin = async (req, res) => {
             {
                 httpOnly: true,
                 maxAge: ONE_DAY_IN_MS,
-                //secure: true,  // Only works in production deployment!
+                secure: true,  // Only works in production deployment!
                 sameSite: 'None' // Avoiding auth CORS problem using front-end code.
             }
         );
