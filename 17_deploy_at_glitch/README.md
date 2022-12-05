@@ -12,7 +12,7 @@ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.
 
 ### Deploy the 17th lesson on this project by clicking the next button at Glitch:
 
-[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/gitdagray/17_deploy_at_glitch)
+[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/sets-ed-dev/17_deploy_at_glitch)
 
 ### Academic Honesty
 
